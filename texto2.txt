@@ -1,1 +1,3 @@
 Este es un segundo texto para git
+
+Esta frase la agregó JuanK Manjarres
